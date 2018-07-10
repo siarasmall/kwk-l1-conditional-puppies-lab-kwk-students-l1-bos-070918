@@ -39,4 +39,6 @@ def both_animals(puppies, cats)
     return "Good job!"
   end
   if puppies > 1 && cats > 1
-    return 
+    return "Get back to your animal goals!"
+  end
+end
