@@ -26,7 +26,7 @@ def some_puppies(puppies)(max)
     return "Good job, Rachel!"
   end
   if puppies > max
-    return 
+    return "'Get back to your animal goals!"
 
 
 # BONUS
