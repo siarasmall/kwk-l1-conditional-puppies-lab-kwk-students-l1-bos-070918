@@ -15,7 +15,7 @@ def less_puppies(puppies)
   if puppies = 3
     return "Slow down! No more puppies."
   end
-  if puppies > 3
+  if puppies >= 3
     return "Get back to your animal goals!"
   end
 end
