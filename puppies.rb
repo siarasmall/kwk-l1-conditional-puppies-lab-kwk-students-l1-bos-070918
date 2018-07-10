@@ -23,6 +23,9 @@ end
 
 def some_puppies(puppies)(max)
   if puppies < max / 2
+    return "Good job, Rachel!"
+  end
+  if puppies > max
     return 
 
 
