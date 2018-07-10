@@ -11,8 +11,10 @@ end
 def less_puppies(puppies)
   if puppies < 3
     return "Good job, Rachel!"
+  end
   if puppies = 3
     return "'Slow down! No more puppies."
+  end
   if puppies > 3
     return "'Get back to your animal goals!"
   end
@@ -27,6 +29,8 @@ def some_puppies(puppies)(max)
   end
   if puppies > max
     return "'Get back to your animal goals!"
+  end
+end
 
 
 # BONUS
